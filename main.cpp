@@ -1,5 +1,6 @@
 int main(int, char**)
 {
-	return 0;
+	int res = 0;
+	return res;
 }
 
